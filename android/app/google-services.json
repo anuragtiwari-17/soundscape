@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "680227279071",
+    "firebase_url": "https://flutter-and-firebase-7aug8-pm-default-rtdb.firebaseio.com",
+    "project_id": "flutter-and-firebase-7aug8-pm",
+    "storage_bucket": "flutter-and-firebase-7aug8-pm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680227279071:android:a17f6d5d23a9ff22d4196a",
+        "android_client_info": {
+          "package_name": "com.example.soundscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680227279071-41vofn0bq2bgqc1anu9ig5olodne7d6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3WbUDRFWsTXQ87T6PWbUFCLSa3jjlpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680227279071-41vofn0bq2bgqc1anu9ig5olodne7d6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680227279071-11gf1d4f9hnuut1tlv9vlc8iges9ace2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.respo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680227279071:android:cdd0e635515ca60fd4196a",
+        "android_client_info": {
+          "package_name": "com.respo.respo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680227279071-u131ib3m2r37dmp16tgnh2pthg0cefep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.respo.respo",
+            "certificate_hash": "df43558e3b0c8c028691b1218ae0501f53ef52eb"
+          }
+        },
+        {
+          "client_id": "680227279071-41vofn0bq2bgqc1anu9ig5olodne7d6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3WbUDRFWsTXQ87T6PWbUFCLSa3jjlpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680227279071-41vofn0bq2bgqc1anu9ig5olodne7d6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680227279071-11gf1d4f9hnuut1tlv9vlc8iges9ace2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.respo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
